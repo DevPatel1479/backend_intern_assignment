@@ -33,7 +33,7 @@ It is a full‑stack application demonstrating a secure, scalable REST API with 
 ## 📌 Assignment Overview
 
 - **Objective:** Build a Scalable REST API with Authentication & Role‑Based Access, and create a simple frontend UI to interact with it.
-- **Expected time:** 2 hours (but delivered with extra polish).
+
 - **Core requirements:**
   - User registration & login with password hashing and JWT (HTTP‑only cookies).
   - Role‑based access (USER vs ADMIN).
