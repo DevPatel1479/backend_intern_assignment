@@ -23,10 +23,6 @@ It is a full‑stack application demonstrating a secure, scalable REST API with 
 - [API Documentation](#-api-documentation)
 - [Security & Scalability](#-security--scalability)
 - [Demo Flow](#-demo-flow)
-- [Evaluation Criteria](#-evaluation-criteria)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
